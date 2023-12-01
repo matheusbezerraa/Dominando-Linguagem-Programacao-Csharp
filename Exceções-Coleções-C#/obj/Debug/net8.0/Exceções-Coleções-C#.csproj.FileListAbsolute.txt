@@ -1,0 +1,14 @@
+C:\Users\Matheus Bezerra\Desktop\Exceções-Coleções-C#\bin\Debug\net8.0\Exceções-Coleções-C#.exe
+C:\Users\Matheus Bezerra\Desktop\Exceções-Coleções-C#\bin\Debug\net8.0\Exceções-Coleções-C#.deps.json
+C:\Users\Matheus Bezerra\Desktop\Exceções-Coleções-C#\bin\Debug\net8.0\Exceções-Coleções-C#.runtimeconfig.json
+C:\Users\Matheus Bezerra\Desktop\Exceções-Coleções-C#\bin\Debug\net8.0\Exceções-Coleções-C#.dll
+C:\Users\Matheus Bezerra\Desktop\Exceções-Coleções-C#\bin\Debug\net8.0\Exceções-Coleções-C#.pdb
+C:\Users\Matheus Bezerra\Desktop\Exceções-Coleções-C#\obj\Debug\net8.0\Exceções-Coleções-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Bezerra\Desktop\Exceções-Coleções-C#\obj\Debug\net8.0\Exceções-Coleções-C#.AssemblyInfoInputs.cache
+C:\Users\Matheus Bezerra\Desktop\Exceções-Coleções-C#\obj\Debug\net8.0\Exceções-Coleções-C#.AssemblyInfo.cs
+C:\Users\Matheus Bezerra\Desktop\Exceções-Coleções-C#\obj\Debug\net8.0\Exceções-Coleções-C#.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Bezerra\Desktop\Exceções-Coleções-C#\obj\Debug\net8.0\Exceções-Coleções-C#.dll
+C:\Users\Matheus Bezerra\Desktop\Exceções-Coleções-C#\obj\Debug\net8.0\refint\Exceções-Coleções-C#.dll
+C:\Users\Matheus Bezerra\Desktop\Exceções-Coleções-C#\obj\Debug\net8.0\Exceções-Coleções-C#.pdb
+C:\Users\Matheus Bezerra\Desktop\Exceções-Coleções-C#\obj\Debug\net8.0\Exceções-Coleções-C#.genruntimeconfig.cache
+C:\Users\Matheus Bezerra\Desktop\Exceções-Coleções-C#\obj\Debug\net8.0\ref\Exceções-Coleções-C#.dll
